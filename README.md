@@ -7,6 +7,14 @@
 The project involves developing a machine learning model to predict customer churn using Artificial Neural Networks (ANN). Customer churn refers to the loss of clients or subscribers. Accurately predicting churn helps businesses implement strategies to retain customers, thereby increasing profitability.
 
 
+## Live Deployement 
+
+Live Demo - https://ann-classification-churnrate-qjzu6hqbh4epstlaylkypc.streamlit.app/
+
+
+
+
+
 ## Run Locally
 
 1. Clone this repo into your system.
